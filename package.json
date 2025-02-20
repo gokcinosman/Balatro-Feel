@@ -1,0 +1,14 @@
+{
+  "name": "com.cardosoandre.balatro-feel",
+  "version": "1.0.0",
+  "displayName": "Balatro Feel",
+  "unity": "2022.3",
+  "keywords": [
+    "balatro",
+    "feel",
+    "card"
+  ],
+  "author": {
+    "name": "cardosoandre"
+  }
+}
